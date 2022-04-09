@@ -1,0 +1,11 @@
+Fase 9
+1 - Vire para esquerda
+2 - Destrua o bloco
+3 - Mova para frente
+4 - Destrua o bloco
+5 - Mova para frente 
+6 - Vire para direita
+7 - Coloque uma tocha
+8 - Repetir três vezes: Mover para frente
+9 - Destrua o bloco 
+10 - Coloque uma tocha 
